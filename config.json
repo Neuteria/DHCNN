@@ -1,0 +1,25 @@
+{
+    "canvas_size": [36, 47],
+    "forbidden_areas": [
+        [[0,14],[8,22]],
+        [[41,12],[47,18]]
+    ],
+    "furniture_specs": {
+        "bed": {
+            "size": [12, 20],
+            "count": 4,
+            "color": 0.7
+        },
+        "cabinet": {
+            "size": [3, 5],
+            "count": 2,
+            "color": 0.3
+        }
+    },
+    "train": {
+        "batch_size": 64,
+        "epochs": 3000,
+        "lr": 0.000095,
+        "heatmap_sigma": 5.0
+    }
+}
