@@ -1,6 +1,6 @@
 # Dormitory Houseplan Convolutional Neural Network (DHCNN)
 
-this is an application can generate floorplan with furniture base on CNN
+this is an application can generate layouts with furniture base on CNN
 
 (Caution: parameters have not been adjust carefully, outcomes may be bad)
 
