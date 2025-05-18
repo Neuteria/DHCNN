@@ -1,0 +1,56 @@
+{
+  "canvas_size": [
+    36,
+    47
+  ],
+  "furniture": [
+    {
+      "type": "bed",
+      "x": 0,
+      "y": 0,
+      "width": 20,
+      "height": 12,
+      "rotated": 1
+    },
+    {
+      "type": "bed",
+      "x": 27,
+      "y": 0,
+      "width": 20,
+      "height": 12,
+      "rotated": 1
+    },
+    {
+      "type": "bed",
+      "x": 0,
+      "y": 24,
+      "width": 20,
+      "height": 12,
+      "rotated": 1
+    },
+    {
+      "type": "bed",
+      "x": 27,
+      "y": 24,
+      "width": 20,
+      "height": 12,
+      "rotated": 1
+    },
+    {
+      "type": "cabinet",
+      "x": 22,
+      "y": 4,
+      "width": 5,
+      "height": 3,
+      "rotated": 1
+    },
+    {
+      "type": "cabinet",
+      "x": 22,
+      "y": 29,
+      "width": 5,
+      "height": 3,
+      "rotated": 1
+    }
+  ]
+}
